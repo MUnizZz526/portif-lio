@@ -106,14 +106,14 @@ Mostre que você estuda Engenharia de Software:
    git add .
    git commit -m "feat: initial commit of cyberpunk portfolio"
    git branch -M main
-   git remote add origin https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+   git remote add origin https://github.com/MUnizZz526/portif-lio.git
    git push -u origin main
    ```
 3. No GitHub:
    - Vá em **Settings** > **Pages**.
    - Em **Branch**, selecione `main` e pasta `/(root)`.
    - Clique em **Save**.
-4. Em cerca de 1 minuto, seu portfólio estará online em: `https://SEU_USUARIO.github.io/SEU_REPOSITORIO`!
+4. Em cerca de 1 minuto, seu portfólio estará online em: `https://MUnizZz526.github.io/portif-lio`!
 
 ---
 

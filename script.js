@@ -367,7 +367,7 @@ CONTATO: Ver comando 'contact'
 <span class="term-cyan">=== CANAIS DE COMUNICAÇÃO ===</span>
 Email:    <span class="term-green">seuemail@exemplo.com</span>
 LinkedIn: <span class="term-green">linkedin.com/in/seuperfil</span>
-GitHub:   <span class="term-green">github.com/seuperfil</span>
+GitHub:   <span class="term-green">github.com/MUnizZz526</span>
 WhatsApp: <span class="term-green">+55 (11) 99999-9999</span>
 `,
 
@@ -490,7 +490,7 @@ WhatsApp: <span class="term-green">+55 (11) 99999-9999</span>
       ],
       recruiterValue: 'Demonstra capacidade de estruturar uma solução web moderna completa, com frontend reativo, backend orientado a eventos e banco de dados relacional robusto.',
       links: {
-        repo: 'https://github.com',
+        repo: 'https://github.com/MUnizZz526/portif-lio',
         demo: '#hero'
       }
     },
@@ -526,7 +526,7 @@ WhatsApp: <span class="term-green">+55 (11) 99999-9999</span>
       ],
       recruiterValue: 'Evidencia domínio das melhores práticas de arquitetura de software, design de microsserviços, cache distribuído e testes automatizados.',
       links: {
-        repo: 'https://github.com',
+        repo: 'https://github.com/MUnizZz526/portif-lio',
         demo: '#hero'
       }
     },
@@ -566,7 +566,7 @@ WhatsApp: <span class="term-green">+55 (11) 99999-9999</span>
       ],
       recruiterValue: 'Prova irrefutável de que o estudante possui a base matemática e computacional de Ciência da Computação, essencial para resolver problemas de lógica complexa.',
       links: {
-        repo: 'https://github.com',
+        repo: 'https://github.com/MUnizZz526/portif-lio',
         demo: '#algo-modal'
       }
     },
@@ -604,7 +604,7 @@ WhatsApp: <span class="term-green">+55 (11) 99999-9999</span>
       ],
       recruiterValue: 'Demonstra familiaridade com ferramentas essenciais do dia a dia de engenharia de software (Linux, Docker, CI/CD), eliminando o gap de infraestrutura de muitos juniores.',
       links: {
-        repo: 'https://github.com',
+        repo: 'https://github.com/MUnizZz526/portif-lio',
         demo: '#terminal'
       }
     }
