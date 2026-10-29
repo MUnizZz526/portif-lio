@@ -1,6 +1,6 @@
-# 🚀 CyberDev // Portfólio de Ciência da Computação & Engenharia de Software
+# 🚀 Cauã Muniz // Portfólio de Ciência da Computação & Engenharia de Software
 
-> **Portfólio interativo de alta conversão para estudantes de Ciência da Computação conquistarem vagas de Estágio e Desenvolvedor Júnior em Múltiplas Áreas da Tecnologia.**
+> **Portfólio interativo de alta conversão de Cauã Muniz (Estudante de Ciência da Computação na FIAP, São Paulo) para oportunidades de Estágio e Desenvolvedor Júnior em Engenharia de Software, Full Stack e Backend.**
 
 Este projeto foi construído com foco em **versatilidade profissional** (Full Stack, Backend/APIs, Estruturas de Dados/Algoritmos e DevOps/Sistemas) e identidade visual **Cyberpunk moderna** (efeitos neon, HUDs, terminal de linha de comando interativo, simulador de algoritmos em tempo real e suporte bilíngue PT-BR/EN).
 

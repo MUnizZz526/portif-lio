@@ -338,12 +338,12 @@ Mentalidade focada em <span class="term-yellow">resolução de problemas reais</
 
     'cat resume.txt': () => `
 ============================================================
-CURRÍCULO // ESTUDANTE DE CIÊNCIA DA COMPUTAÇÃO
+CURRÍCULO // CAUÃ MUNIZ - CIÊNCIA DA COMPUTAÇÃO
 ============================================================
-FOCO: Estágio / Desenvolvedor Júnior (Full Stack, Backend)
-LOCALIZAÇÃO: Brasil (Disponível para Remoto / Presencial)
-FORMAÇÃO: Bacharelado em Ciência da Computação
-SKILLS: JavaScript, Python, Node, React, SQL, Docker, Git
+FOCO: Estágio / Desenvolvedor Júnior (Full Stack, Backend, Software)
+LOCALIZAÇÃO: São Paulo - SP (Disponível para Remoto / Híbrido / Presencial)
+FORMAÇÃO: Bacharelado em Ciência da Computação — FIAP (Previsão: 12/2028)
+SKILLS: JavaScript, TypeScript, Python, Node, React, SQL, Docker, Git
 CONTATO: Ver comando 'contact'
 ============================================================
 `,
@@ -365,10 +365,11 @@ CONTATO: Ver comando 'contact'
 
     contact: () => `
 <span class="term-cyan">=== CANAIS DE COMUNICAÇÃO ===</span>
-Email:    <span class="term-green">seuemail@exemplo.com</span>
-LinkedIn: <span class="term-green">linkedin.com/in/seuperfil</span>
+Nome:     <span class="term-green">Cauã Muniz</span>
+Email:    <span class="term-green">munizcaua88@gmail.com</span>
+LinkedIn: <span class="term-green">linkedin.com/in/cauã-muniz</span>
 GitHub:   <span class="term-green">github.com/MUnizZz526</span>
-WhatsApp: <span class="term-green">+55 (11) 99999-9999</span>
+WhatsApp: <span class="term-green">+55 (11) 97849-4763</span>
 `,
 
     sudo: () => `<span class="term-pink">sudo: usuário não está no arquivo sudoers. Este incidente foi reportado ao Tech Lead. :)</span>`
